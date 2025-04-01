@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\bin\Debug\net9.0\Practice_Project_2.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\bin\Debug\net9.0\Practice_Project_2.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\bin\Debug\net9.0\Practice_Project_2.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\bin\Debug\net9.0\Practice_Project_2.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\bin\Debug\net9.0\Practice_Project_2.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\obj\Debug\net9.0\Practice_Project_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\obj\Debug\net9.0\Practice_Project_2.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\obj\Debug\net9.0\Practice_Project_2.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\obj\Debug\net9.0\Practice_Project_2.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\obj\Debug\net9.0\Practice_Project_2.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\obj\Debug\net9.0\refint\Practice_Project_2.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\obj\Debug\net9.0\Practice_Project_2.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\obj\Debug\net9.0\Practice_Project_2.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\Practice_Project_2\obj\Debug\net9.0\ref\Practice_Project_2.dll
